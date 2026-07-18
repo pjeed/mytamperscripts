@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Copy all items in your shop to the clipboard
-// @match        https://www.neopets.com/market.phtml*
 // @match        https://www.neopets.com/browseshop.phtml*
 // @grant        GM_setClipboard
 // ==/UserScript==
